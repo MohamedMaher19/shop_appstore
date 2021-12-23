@@ -6,6 +6,8 @@ import 'package:shop_app/shared/components/component.dart';
 class SearchScreen extends StatelessWidget {
   const SearchScreen({Key? key}) : super(key: key);
 
+  // search screen
+
   @override
   Widget build(BuildContext context) {
     var formkey = GlobalKey<FormState>();
