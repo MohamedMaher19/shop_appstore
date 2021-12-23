@@ -14,6 +14,7 @@ import 'package:shop_app/shop_app/cubit/shop_cubit.dart';
 
 void main()async {
 
+
   WidgetsFlutterBinding.ensureInitialized();
 
   // Bloc.observer  = MyBlocObserver();
